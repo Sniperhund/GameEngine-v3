@@ -1,0 +1,10 @@
+// IDE
+.idea
+
+// Build dir
+x64
+x86
+Core/x64
+Core/x86
+GameEngine/x64
+GameEngine/x86
